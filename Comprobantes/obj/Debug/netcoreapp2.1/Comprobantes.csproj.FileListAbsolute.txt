@@ -1,0 +1,11 @@
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\obj\Debug\netcoreapp2.1\Comprobantes.csprojAssemblyReference.cache
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\obj\Debug\netcoreapp2.1\Comprobantes.csproj.CoreCompileInputs.cache
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\obj\Debug\netcoreapp2.1\Comprobantes.AssemblyInfoInputs.cache
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\obj\Debug\netcoreapp2.1\Comprobantes.AssemblyInfo.cs
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\bin\Debug\netcoreapp2.1\Comprobantes.deps.json
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\bin\Debug\netcoreapp2.1\Comprobantes.runtimeconfig.json
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\bin\Debug\netcoreapp2.1\Comprobantes.runtimeconfig.dev.json
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\bin\Debug\netcoreapp2.1\Comprobantes.dll
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\bin\Debug\netcoreapp2.1\Comprobantes.pdb
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\obj\Debug\netcoreapp2.1\Comprobantes.dll
+F:\Archivos\Tecsup\Profe Cristian juarez\Comprobantes\Comprobantes\obj\Debug\netcoreapp2.1\Comprobantes.pdb
